@@ -1,0 +1,13 @@
+From: client2@example.com
+Subject: Payment Processing Request
+Date: Mon, 15 Jan 2024 11:30:00 -0500
+Content-Type: text/plain
+MIME-Version: 1.0
+
+Please process the following payment:
+Amount: $75,000.00
+Due Date: 01/20/2024
+Account: CL-789012
+
+Thank you,
+Sarah Johnson
